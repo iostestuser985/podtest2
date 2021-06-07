@@ -1,0 +1,6 @@
+framework module emir2test {
+  umbrella header "emir2test-umbrella.h"
+
+  export *
+  module * { export * }
+}

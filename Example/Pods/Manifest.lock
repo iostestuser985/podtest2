@@ -1,0 +1,16 @@
+PODS:
+  - emir2test (0.1.0)
+
+DEPENDENCIES:
+  - emir2test (from `../`)
+
+EXTERNAL SOURCES:
+  emir2test:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  emir2test: fa9df0f4d4742a7762615bb13cd0549d15f12ff9
+
+PODFILE CHECKSUM: 06525ab7a6d98eead53a385dc84700012a18ca74
+
+COCOAPODS: 1.10.1

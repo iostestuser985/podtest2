@@ -1,0 +1,6 @@
+framework module Pods_emir2test_Tests {
+  umbrella header "Pods-emir2test_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
