@@ -7,11 +7,15 @@
 //
 
 import UIKit
+import emir2test
 
 class ViewController: UIViewController {
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        let sdk = EmirTest()
+        sdk.writeTestLine()
         // Do any additional setup after loading the view, typically from a nib.
     }
 
